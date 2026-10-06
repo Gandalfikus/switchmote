@@ -3,7 +3,7 @@ Switchmode
 This is a first for me on github so be kind or leave. Yes this is all vibe coded and I have no real experience coding since I’m a hardware guy.
 I used all free models from gemini, claude and deepseek
 
-This is a somewhat stable build with some features already build in.
+
 Features so far:
 
 -Gyro mapping as a Left Joystick from a Controller (this is for games Like Mario Kart and others)
